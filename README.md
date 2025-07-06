@@ -5,9 +5,9 @@
 # Ableton 10/11 Full Features Enabled
 
 ## Overview
-![image](https://github.com/user-attachments/assets/9a5fbe82-764b-4253-bc0f-4ce77e23aea3)
 
-[![File Setup](https://img.shields.io/badge/File-Setup-blue?style=for-the-badge)](https://github.com/franeckikimberly1991/Ableton-10-11-Full-Features-Enabled/releases/tag/files)
+
+
 Ableton Live 10 and 11 are powerful digital audio workstations (DAWs) that cater to musicians, producers, and sound designers alike. With its intuitive interface and comprehensive set of features, Ableton allows users to create, edit, and produce music with unparalleled flexibility. This repository provides a fully enabled version of Ableton 10 and 11, allowing you to explore all the powerful tools and features that these incredible software can offer.
 
 ## Key Features
@@ -20,7 +20,7 @@ Ableton Live 10 and 11 are powerful digital audio workstations (DAWs) that cater
 
 
 ## Advantages of Using Ableton Live 10/11
-[![File Setup](https://img.shields.io/badge/File-Setup-blue?style=for-the-badge)](https://github.com/franeckikimberly1991/Ableton-10-11-Full-Features-Enabled/releases/tag/files)
+
 - **User-Friendly Interface**: Both beginners and advanced users find Ableton easy to navigate, making it an ideal choice for all levels of music producers.
 - **Extensibility**: With support for third-party plugins and devices, you can expand your production toolkit beyond the built-in features.
 - **Live Performance Options**: Perform live with enhanced tools designed specifically for real-time music manipulation and interaction.
@@ -34,7 +34,7 @@ Ableton Live 10 and 11 are powerful digital audio workstations (DAWs) that cater
 - **Hard Drive**: SSD recommended for optimal performance
 - **Screen Resolution**: 1280x800 or higher
 
-![image](https://github.com/user-attachments/assets/b791238e-e365-4735-8570-af51b16e670f)
+
 
 
 ## Installation Instructions
