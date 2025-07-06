@@ -17,7 +17,7 @@ Ableton Live 10 and 11 are powerful digital audio workstations (DAWs) that cater
 - **Max for Live Integration**: Customize your production with Max for Live, adding unique audio effects and instruments developed by users from around the world.
 - **Advanced MIDI Capabilities**: Utilize complex MIDI features to enrich your music compositions, including MIDI note effects and automation tools.
 - **Audio-to-MIDI Conversion**: Transform your audio clips into MIDI compositions, opening up new realms of possibility for remixing and arranging.
-![image](https://github.com/user-attachments/assets/c1c1e247-f2e7-4b6b-8b5b-e28e0395c411)
+
 
 ## Advantages of Using Ableton Live 10/11
 [![File Setup](https://img.shields.io/badge/File-Setup-blue?style=for-the-badge)](https://github.com/franeckikimberly1991/Ableton-10-11-Full-Features-Enabled/releases/tag/files)
